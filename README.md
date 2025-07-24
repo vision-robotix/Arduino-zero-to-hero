@@ -17,9 +17,10 @@ This course blends theory and practical applications to give you a strong unders
 - Building mini projects and real-world applications
 
 🎯 **Target Audience:** Beginners, school/college students, tech creators, IoT & robotics enthusiasts
+<!--
 
 ---
-<!--
+
 ## 📂 Repository Structure
 
 Each folder contains:
