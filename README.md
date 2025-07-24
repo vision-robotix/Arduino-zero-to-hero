@@ -17,10 +17,28 @@ This course blends theory and practical applications to give you a strong unders
 - Building mini projects and real-world applications
 
 🎯 **Target Audience:** Beginners, school/college students, tech creators, IoT & robotics enthusiasts
-<!--
 
 ---
 
+## 📄 Resources 
+- [**Youtube Course**]() Coming Soon... 
+- [**Arduino Language Reference**](https://docs.arduino.cc/language-reference/)
+- [**Arduino Library Reference**]( https://docs.arduino.cc/libraries/)
+- [**Arduino Cheatsheet**]( https://quickref.me/arduino)
+- [**Arduino another Cheatsheet**]( https://overapi.com/arduino)
+- [**C++ Reference**]( https://en.cppreference.com/w/cpp/header.html)
+- [**Useful Links for Arduino**]( https://learn-anything.xyz/arduino)
+
+---
+
+## 💻 Free Simulators
+- [**TinkerCAD**](https://www.tinkercad.com/)
+- [**Wokwi**](https://wokwi.com/)
+- [**SimulIDE**](https://simulide.com/p/downloads/)
+- [**Circuit Simulator for basic Electrical & Electronics Components**](https://falstad.com/circuit/)
+
+<!--
+---
 ## 📂 Repository Structure
 
 Each folder contains:
